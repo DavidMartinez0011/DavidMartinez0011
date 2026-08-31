@@ -13,12 +13,11 @@ Junior / Aspiring DevOps Engineer
 </div>
 
 ---
-
+<div align="center">
 ### 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
-<div align="center">
 
 ---
 
