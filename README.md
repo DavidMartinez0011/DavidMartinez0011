@@ -22,17 +22,6 @@ Junior / Aspiring DevOps Engineer
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMartinez0011&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-</div>
-
----
-
-### 🌱 Currently
 
 ---
 
