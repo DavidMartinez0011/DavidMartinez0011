@@ -26,7 +26,7 @@ Junior / Aspiring DevOps Engineer
 
 ---
 
-### 📫 Let's Connect
+### 📫 Contacto
 
 
 
