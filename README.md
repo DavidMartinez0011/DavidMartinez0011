@@ -10,8 +10,6 @@ Junior / Aspiring DevOps Engineer
 🌱 Aprendiendo DevOps y automatización
 🚀 Construyendo proyectos para aprender
 
-💻 Tech Stack:
-
 </div>
 
 ---
@@ -26,7 +24,7 @@ Junior / Aspiring DevOps Engineer
 
 
 ---
-<div align="center">
+
 ### 📫 Let's Connect
 
 
