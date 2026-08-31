@@ -20,14 +20,16 @@ Junior / Aspiring DevOps Engineer
 
 ![HTML5](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
+<div align="center">
+
 ---
 
 
 ---
-
+<div align="center">
 ### 📫 Let's Connect
 
-<div align="center">
+
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DavidMartinez0011)
 
